@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas Alex (byChUcKPriv8)
+# 👋 Olá, prazer Lucas Alex (byChUcKPriv8)
 
 👨🏽‍💻 Graduado em Redes de Computadores 
 🎓 Estudante de Ciência da Computação (6º semestre) & ADS (5º semestre)  
