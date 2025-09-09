@@ -1,8 +1,9 @@
-# 👋 Olá, eu sou o Lucas Eziquiel (byChUcKPriv8)
+# 👋 Olá, eu sou o Lucas Alex (byChUcKPriv8)
 
-🎓 Estudante de Ciência da Computação (4º semestre)  
-💼 Analista de Infraestrutura  
-🔧 Experiência em Redes de Computadores, Automação, Infra e Desenvolvimento Web  
+👨🏽‍💻 Graduado em Redes de Computadores 
+🎓 Estudante de Ciência da Computação (6º semestre) & ADS (5º semestre)  
+💼 Analista de Infraestrutura SOC 
+🔧 Experiência em Redes de Computadores, Automação, Infra e CyberSecurity  
 🚀 Atualmente explorando **Django, Python, Automação com Raspberry Pi e Impressão 3D**  
 
 ---
@@ -42,9 +43,8 @@
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lar_ape304/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-eziquiel/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:la.eziquiel@gmail.com)
 
 ---
 
