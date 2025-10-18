@@ -34,7 +34,7 @@
 
 ## 🔥 Projetos em Destaque
 
-- [📌 Sistema de Cadastro de Produtos com Django](https://github.com/byChUcKPriv8/seu-repo)  
+- [📌 Auto-Block PoC FortiGate (Sylog + Bash +Python + Nginx](https://github.com/byChUcKPriv8/autoblock-PoC)  
 - [📌 Automação Residencial com Raspberry Pi e Home Assistant](https://github.com/byChUcKPriv8/seu-repo)  
 - [📌 Scripts e Ferramentas para Redes e Infraestrutura](https://github.com/byChUcKPriv8/seu-repo)  
 - [📌 Impressão 3D – Modelos e STL](https://github.com/byChUcKPriv8/seu-repo)  
