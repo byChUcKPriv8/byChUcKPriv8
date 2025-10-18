@@ -4,7 +4,7 @@
 🎓 Estudante de Ciência da Computação (6º semestre) & ADS (5º semestre)  
 💼 Analista de Infraestrutura SOC 
 🔧 Experiência em Redes de Computadores, Automação, Infra e CyberSecurity  
-🚀 Atualmente explorando **Django, Python, Automação com Raspberry Pi e Impressão 3D**  
+🚀 Atualmente explorando **FortiGate, Python, Automação com Raspberry Pi e Impressão 3D**  
 
 ---
 
