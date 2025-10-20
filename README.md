@@ -11,13 +11,14 @@
 ## 🚀 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SOC](https://img.shields.io/badge/SOC-092E20?style=for-the-badge&logo=SOC&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Pentest](https://img.shields.io/badge/Pentest-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Scripts](https://img.shields.io/badge/Scripts-563D7C?style=for-the-badge&logo=script&logoColor=white)
+![SOC](https://img.shields.io/badge/SOC-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Pentest](https://img.shields.io/badge/Pentest-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Scripts](https://img.shields.io/badge/Scripts-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
 
 ---
 
