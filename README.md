@@ -48,3 +48,5 @@
 ---
 
 ✨ “Transformando ideias em código, e código em soluções reais.”  
+
+![alienware](https://github.com/user-attachments/assets/65ec27a3-a052-420f-a66a-b138d0a7aa52)
