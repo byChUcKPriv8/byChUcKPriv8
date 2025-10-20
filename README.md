@@ -1,4 +1,4 @@
-# 👋 Olá, prazer Lucas Alex (byChUcKPriv8)
+# 👋 Save, prazer Lucas Alex (byChUcKPriv8)
 
 👨🏽‍💻 Graduado em Redes de Computadores 
 🎓 Estudante de Ciência da Computação (6º semestre) & ADS (5º semestre)  
@@ -47,6 +47,6 @@
 
 ---
 
-✨ “Transformando ideias em código, e código em soluções reais.”  
+![The quieter you become, the more you can hear](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![alienware](https://github.com/user-attachments/assets/65ec27a3-a052-420f-a66a-b138d0a7aa52)
+
