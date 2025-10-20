@@ -34,7 +34,8 @@
 
 ## 🔥 Projetos em Destaque
 
-- [📌 Auto-Block PoC FortiGate (Sylog + Bash +Python + Nginx](https://github.com/byChUcKPriv8/autoblock-PoC)  
+- [📌 Auto-Block PoC FortiGate (Sylog + Bash +Python + Nginx](https://github.com/byChUcKPriv8/autoblock-PoC)
+- [📌 Projeto SIEM Opensource(Fortinet + Wazuh + Rsyslog](https://github.com/byChUcKPriv8/siem-opensource)
 - [📌 Automação Residencial com Raspberry Pi e Home Assistant](https://github.com/byChUcKPriv8/seu-repo)  
 - [📌 Scripts e Ferramentas para Redes e Infraestrutura](https://github.com/byChUcKPriv8/seu-repo)  
 - [📌 Impressão 3D – Modelos e STL](https://github.com/byChUcKPriv8/seu-repo)  
