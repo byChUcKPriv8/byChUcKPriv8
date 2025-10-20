@@ -11,7 +11,7 @@
 ## 🚀 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SOC](https://img.shields.io/badge/SOC-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![SOC](https://img.shields.io/badge/SOC-005571?style=for-the-badge&logo=greensock&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Pentest](https://img.shields.io/badge/Pentest-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Scripts](https://img.shields.io/badge/Scripts-121011?style=for-the-badge&logo=gnubash&logoColor=white)
