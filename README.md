@@ -1,4 +1,4 @@
-# 👋 Save, prazer Lucas Alex (byChUcKPriv8)
+# 👋 Save, prazer Lucas Alex
 
 👨🏽‍💻 Graduado em Redes de Computadores 
 🎓 Estudante de Ciência da Computação (6º semestre) & ADS (5º semestre)  
@@ -22,7 +22,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Stats
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=byChUcKPriv8&show_icons=true&theme=radical)
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔥 Projetos em Destaque
+## 🔥 Ultimos works
 
 - [📌 Auto-Block PoC FortiGate (Sylog + Bash +Python + Nginx)](https://github.com/byChUcKPriv8/autoblock-PoC)
 - [📌 Projeto SIEM Opensource(Fortinet + Wazuh + Rsyslog)](https://github.com/byChUcKPriv8/siem-opensource)
