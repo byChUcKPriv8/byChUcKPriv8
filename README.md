@@ -1,4 +1,4 @@
-# 👋 Save, prazer Lucas Alex
+# 👋 Save, prazer Lucas Eziquiel
 
 👨🏽‍💻 Graduado em Redes de Computadores 
 🎓 Estudante de Ciência da Computação (6º semestre) & ADS (5º semestre)  
