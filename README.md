@@ -1,10 +1,10 @@
 # 👋 Save, prazer Lucas Eziquiel
 
-👨🏽‍💻 [Graduado em Redes de Computadores]
-🎓 [Estudante de Ciência da Computação (6º semestre) & ADS (5º semestre)]  
-💼 [Analista de Infraestrutura SOC]
-🔧 [Experiência em Redes de Computadores, Automação, Infra e CyberSecurity]  
-🚀 [Atualmente explorando **Hardhacking, FortiGate, Python, Automação com Raspberry PI e Cybersecurity**]  
+👨🏽‍💻 ![Graduado em Redes de Computadores]
+🎓 ![Estudante de Ciência da Computação (6º semestre) & ADS (5º semestre)]  
+💼 ![Analista de Infraestrutura SOC]
+🔧 ![Experiência em Redes de Computadores, Automação, Infra e CyberSecurity]  
+🚀 ![Atualmente explorando **Hardhacking, FortiGate, Python, Automação com Raspberry PI e Cybersecurity**]  
 
 ---
 
