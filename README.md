@@ -1,4 +1,4 @@
-# 👋 Save, prazer Lucas Eziquiel
+# 👋 Save bro, prazer Lucas Eziquiel
 
 👨🏽‍💻 - Graduado em Redes de Computadores & Análise e Desenvolvimento de Sistemas                                
 🎓 - Estudante de Ciência da Computação (6º semestre)                                                                                                      
