@@ -1,6 +1,6 @@
 # 👋 Save, prazer Lucas Eziquiel
 
-👨🏽‍💻 - Graduado em Redes de Computadores & Análise e Desenvolvimento de Sistemas
+👨🏽‍💻 - Graduado em Redes de Computadores & Análise e Desenvolvimento de Sistemas                                
 🎓 - Estudante de Ciência da Computação (6º semestre) 
 💼 - Analista de Infraestrutura SOC
 🔧 - Experiência em Redes de Computadores, Automação, Infra e CyberSecurity  
