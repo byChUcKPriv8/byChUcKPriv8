@@ -2,7 +2,7 @@
 
 👨🏽‍💻 - Graduado em Redes de Computadores & Análise e Desenvolvimento de Sistemas                                
 🎓 - Estudante de Ciência da Computação (6º semestre)                                                                                                      
-💼 - Analista de Infraestrutura SOC
+💼 - Analista de Infraestrutura SOC                                                                                                                                     
 🔧 - Experiência em Redes de Computadores, Automação, Infra e CyberSecurity  
 🚀 - Atualmente explorando **Hardhacking, FortiGate, Python, Automação com Raspberry PI e Cybersecurity**  
 
