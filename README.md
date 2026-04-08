@@ -3,6 +3,7 @@
 👨🏽‍💻 - Graduado em Redes de Computadores & Análise e Desenvolvimento de Sistemas                                
 🎓 - Graduando em Ciência da Computação (7º semestre) (Invest)
 🎓 - Pós Graduando em Gestão Estratégica de Cibersegurança e Riscos Digitais (PucMinas)
+
 💼 - Analista de Infraestrutura SOC                                                                                                                                     
 🔧 - Experiência em Redes de Computadores, Automação, Infra e CyberSecurity  
 🚀 - Atualmente explorando **Cybersecurity, FortiGate, Python, Automação com Raspberry/EPS32 e Hardhacking**  
